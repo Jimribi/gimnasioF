@@ -22,6 +22,8 @@ library
                      Settings.StaticFiles
                      Handler.Common
                      Handler.Home
+                     Handler.Dbasicos
+                     Handler.DbasicosDetails
                      Handler.Comment
                      Handler.Profile
 
@@ -90,7 +92,7 @@ library
                  , time
                  , case-insensitive
                  , wai
-
+                 
 executable         gimnasio
     if flag(library-only)
         Buildable: False

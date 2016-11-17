@@ -1,0 +1,20 @@
+.masthead1,
+.navbar {
+    background-color: rgb(155, 117, 15);
+}
+
+.navbar-default .navbar-nav > .active > a {
+    background-color: transparent;
+    border-bottom: 2px solid white;
+}
+
+.navbar-nav {
+    padding-bottom: 1em;
+}
+
+.masthead1 {
+    margin-top: -11px;
+    color: white;
+    text-align: center;
+    min-height: 70px;
+}

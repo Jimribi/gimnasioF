@@ -1,0 +1,9 @@
+<div .masthead1>
+
+    <h2> Datos Basicos !
+<div .container>
+    <div .row>
+    
+    <form method=post action=@{DbasicosR} enctype #{enctype}>
+    ^{widget}
+    <button class "btn btn-default"> Incluir Datos!

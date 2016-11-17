@@ -9,3 +9,5 @@
 /comments CommentR POST
 
 /profile ProfileR GET
+/Dbasicos/new DbasicosR GET POST
+/Dbasicos/!#DbasicosId DbasicosDetailsR GET
